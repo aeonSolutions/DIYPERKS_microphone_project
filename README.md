@@ -1,2 +1,77 @@
-# DIYPERKS_microphone_project
+# DIYPERKS DIY "Building a quality USB-C microphone" 
 This is the Gerber files for the Youtuber DIY PERKS video "Building a quality USB-C microphone"
+You can view the DIY build here : https://www.youtube.com/watch?v=LoQu3XXIayc&t=1s
+
+Download this repository for the Gerber and KiCad Files
+alternatively if you do not want to build a PCB by yourself, and like to buy one mail me at mtpsilva@gmail.com. The price will be around 20eur plus postage fees.
+
+________________________________________________________________________________________________________________
+
+### Below was partly copyed from the video description on YouTube
+
+Parts list:
+
+Microphone capsule: https://www.jlielectronics.com/microphone-capsules/jli-2555bxz3-gp/
+
+Shipping to the EU is expensive, so I'm working on a group buy. Check back in a few weeks' time!
+
+- Transistor 
+
+US: https://ebay.us/3m3kyV
+
+UK: https://ebay.us/KYIbZB
+
+China (AliExpress.com) https://s.click.aliexpress.com/e/_AZ1Cqd
+
+- THAT1512 
+
+US: https://www.newark.com/search?st=that1512
+
+UK: https://ebay.us/wvJUzJ
+
+- USB Audio interface: https://amzn.to/3k43hy7
+
+- USB C breakout board: https://amzn.to/3EJa0Fs
+
+- 7mm brass tube Amazon: https://amzn.to/3BFJ086
+
+- 7mm brass tube eBay: https://ebay.us/pZfjF7
+
+- 6mm brass rod Amazon: https://amzn.to/3mEPDDr
+
+- 6mm brass rod eBay: https://ebay.us/LAdYfs
+
+- 3mm brass rods Amazon: https://amzn.to/3bCP9Hu
+
+- 3mm brass rods eBay: https://ebay.us/32ofym
+
+- 72mm 1.5mm nitrile o-rings Amazon: https://amzn.to/3q6fvtV
+
+- 72mm 1.5mm nitrile o-rings eBay: https://ebay.us/y37Lmz
+
+- Brass mesh: https://amzn.to/3mG1Zet
+
+- 1- 5v +- isolator: https://ebay.us/YIIMNe
+
+Cheaper version (but should work): https://ebay.us/Bwgafo or https://uk.rs-online.com/web/p/isolated-dc-dc-converters/2233683
+
+For the resistors, capacitors, wire, stripboard etc: https://www.bitsbox.co.uk/
+
+USB C info: https://www.youtube.com/watch?v=V-vFtiDYiIw
+
+
+#### If you like to  email DIY PERKS : DIYPerks@gmail.com
+______________________________________________________________________________________________________________________________
+
+### License
+Copyright 2021 Miguel Tomás under Creative Commons license
+
+=====================================================================================
+### Share this release
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fjitpack.io%2F&ref_src=twsrc%5Etfw&text=Version%201.0%20of%20AeonLabs-Common-Libraries-for-Android%20is%20now%20available%20on%20&tw_p=tweetbutton&url=http%3A%2F%2Fjitpack.io%2F%23aeonSolutions%2FAeonLabs-Common-Libraries-for-Android%2F1.0)
+
+<a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
+### Be supportive of my dedication and work towards technology education and buy me a coffee
+
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" />](https://www.buymeacoffee.com/migueltomas)
