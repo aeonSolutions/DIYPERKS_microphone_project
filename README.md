@@ -9,13 +9,13 @@ ________________________________________________________________________________
 
 ### Below was partly copyed from the video description on YouTube
 
-Parts list:
+#### Parts list:
 
 Microphone capsule: https://www.jlielectronics.com/microphone-capsules/jli-2555bxz3-gp/
 
 Shipping to the EU is expensive, so I'm working on a group buy. Check back in a few weeks' time!
 
-- Transistor 
+#### Transistor 
 
 US: https://ebay.us/3m3kyV
 
@@ -23,7 +23,7 @@ UK: https://ebay.us/KYIbZB
 
 China (AliExpress.com): https://s.click.aliexpress.com/e/_AZ1Cqd
 
-- THAT1512 
+####  THAT1512 
 
 US: https://www.newark.com/search?st=that1512
 
@@ -32,14 +32,14 @@ UK: https://ebay.us/wvJUzJ
 China (AliExpress.com): https://s.click.aliexpress.com/e/_9ufNNf
 
 
-- USB Audio interface
+####  USB Audio interface
 
 https://amzn.to/3k43hy7
 
 https://s.click.aliexpress.com/e/_9R7Nkz
 
 
-- USB C breakout board
+####  USB C breakout board
 
 https://amzn.to/3EJa0Fs
 
@@ -47,7 +47,7 @@ https://s.click.aliexpress.com/e/_9jZgBr
 
 
 
-- 7mm brass tube
+####  7mm brass tube
 
 Amazon: https://amzn.to/3BFJ086
 
@@ -57,7 +57,7 @@ China (AliExpress): https://s.click.aliexpress.com/e/_A1CrZJ
 
 
 
-- 6mm brass rod
+####  6mm brass rod
 
 Amazon: https://amzn.to/3mEPDDr
 
@@ -67,7 +67,7 @@ China (AliExpress): https://s.click.aliexpress.com/e/_A1CrZJ
 
 
 
-- 3mm brass rods
+####  3mm brass rods
 
 Amazon: https://amzn.to/3bCP9Hu
 
@@ -75,19 +75,19 @@ eBay: https://ebay.us/32ofym
 
 
 
-- 72mm 1.5mm nitrile o-rings
+####  72mm 1.5mm nitrile o-rings
 
 Amazon: https://amzn.to/3q6fvtV
 
 eBay: https://ebay.us/y37Lmz
 
 
-- Brass mesh:
+####  Brass mesh:
 
 https://amzn.to/3mG1Zet
 
 
-- 1- 5v +- isolator
+####  1- 5v +- isolator
  
 https://ebay.us/YIIMNe
 
