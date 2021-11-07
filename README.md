@@ -1,4 +1,7 @@
 # DIYPERKS DIY "Building a quality USB-C microphone" 
+![](https://views.whatilearened.today/views/github/aeonSolutions/DIYPERKS_microphone_project.svg)
+![](https://img.shields.io/github/downloads/aeonSolutions/DIYPERKS_microphone_project/total?style=for-the-badge)
+
 This is the Gerber files for the Youtuber DIY PERKS video "Building a quality USB-C microphone"
 You can view the DIY build here : https://www.youtube.com/watch?v=LoQu3XXIayc&t=1s
 
