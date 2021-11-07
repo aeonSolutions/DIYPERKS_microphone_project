@@ -21,7 +21,7 @@ US: https://ebay.us/3m3kyV
 
 UK: https://ebay.us/KYIbZB
 
-China (AliExpress.com) https://s.click.aliexpress.com/e/_AZ1Cqd
+China (AliExpress.com): https://s.click.aliexpress.com/e/_AZ1Cqd
 
 - THAT1512 
 
@@ -29,29 +29,59 @@ US: https://www.newark.com/search?st=that1512
 
 UK: https://ebay.us/wvJUzJ
 
-- USB Audio interface: https://amzn.to/3k43hy7
+China (AliExpress.com): https://s.click.aliexpress.com/e/_9ufNNf
 
-- USB C breakout board: https://amzn.to/3EJa0Fs
 
-- 7mm brass tube Amazon: https://amzn.to/3BFJ086
+- USB Audio interface
 
-- 7mm brass tube eBay: https://ebay.us/pZfjF7
+https://amzn.to/3k43hy7
 
-- 6mm brass rod Amazon: https://amzn.to/3mEPDDr
+https://s.click.aliexpress.com/e/_9R7Nkz
 
-- 6mm brass rod eBay: https://ebay.us/LAdYfs
 
-- 3mm brass rods Amazon: https://amzn.to/3bCP9Hu
+- USB C breakout board
 
-- 3mm brass rods eBay: https://ebay.us/32ofym
+https://amzn.to/3EJa0Fs
 
-- 72mm 1.5mm nitrile o-rings Amazon: https://amzn.to/3q6fvtV
+https://s.click.aliexpress.com/e/_9jZgBr
 
-- 72mm 1.5mm nitrile o-rings eBay: https://ebay.us/y37Lmz
 
-- Brass mesh: https://amzn.to/3mG1Zet
+- 7mm brass tube
 
-- 1- 5v +- isolator: https://ebay.us/YIIMNe
+Amazon: https://amzn.to/3BFJ086
+
+eBay: https://ebay.us/pZfjF7
+
+
+- 6mm brass rod
+
+Amazon: https://amzn.to/3mEPDDr
+
+eBay: https://ebay.us/LAdYfs
+
+
+- 3mm brass rods
+
+Amazon: https://amzn.to/3bCP9Hu
+
+eBay: https://ebay.us/32ofym
+
+
+- 72mm 1.5mm nitrile o-rings
+
+Amazon: https://amzn.to/3q6fvtV
+
+eBay: https://ebay.us/y37Lmz
+
+
+- Brass mesh:
+
+https://amzn.to/3mG1Zet
+
+
+- 1- 5v +- isolator
+ 
+https://ebay.us/YIIMNe
 
 Cheaper version (but should work): https://ebay.us/Bwgafo or https://uk.rs-online.com/web/p/isolated-dc-dc-converters/2233683
 
