@@ -5,8 +5,11 @@
 This is the Gerber files for the Youtuber DIY PERKS video "Building a quality USB-C microphone"
 You can view the DIY build here : https://www.youtube.com/watch?v=LoQu3XXIayc&t=1s
 
-Download this repository for the Gerber and KiCad Files
-alternatively if you do not want to build a PCB by yourself, and like to buy one mail me at mtpsilva@gmail.com. The price will be around 20eur plus postage fees.
+Download this repository for the KiCad Files
+
+Download the Gerber files in the release section of this repository
+
+### alternatively if you do not want to build a PCB by yourself, and like to buy one mail me at mtpsilva@gmail.com. The price will be around 20eur plus postage fees.
 
 
 ![](https://github.com/aeonSolutions/DIYPERKS_microphone_project/blob/main/kicad_QWL5OwVIU4.png)
