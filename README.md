@@ -46,11 +46,15 @@ https://amzn.to/3EJa0Fs
 https://s.click.aliexpress.com/e/_9jZgBr
 
 
+
 - 7mm brass tube
 
 Amazon: https://amzn.to/3BFJ086
 
 eBay: https://ebay.us/pZfjF7
+
+China (AliExpress): https://s.click.aliexpress.com/e/_A1CrZJ
+
 
 
 - 6mm brass rod
@@ -59,12 +63,16 @@ Amazon: https://amzn.to/3mEPDDr
 
 eBay: https://ebay.us/LAdYfs
 
+China (AliExpress): https://s.click.aliexpress.com/e/_A1CrZJ
+
+
 
 - 3mm brass rods
 
 Amazon: https://amzn.to/3bCP9Hu
 
 eBay: https://ebay.us/32ofym
+
 
 
 - 72mm 1.5mm nitrile o-rings
