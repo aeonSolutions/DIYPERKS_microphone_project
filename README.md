@@ -105,7 +105,12 @@ https://ebay.us/YIIMNe
 
 Cheaper version (but should work): https://ebay.us/Bwgafo or https://uk.rs-online.com/web/p/isolated-dc-dc-converters/2233683
 
-For the resistors, capacitors, wire, stripboard etc: https://www.bitsbox.co.uk/
+For the resistors, capacitors, wire, stripboard etc:
+
+https://www.bitsbox.co.uk/
+
+https://s.click.aliexpress.com/e/_AV0cWz
+
 
 USB C info: https://www.youtube.com/watch?v=V-vFtiDYiIw
 
