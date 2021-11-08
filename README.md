@@ -10,6 +10,7 @@ Download this repository for the KiCad Files
 Download the Gerber files in the release section of this repository
 
 ### alternatively if you do not want to build a PCB by yourself, and like to buy one mail me at mtpsilva@gmail.com. The price will be around 20eur plus postage fees.
+(I will also deliver the assembled PCB with all the components at an aditonal cost).
 
 
 ![](https://github.com/aeonSolutions/DIYPERKS_microphone_project/blob/main/image_2021-11-08_111413.png)
