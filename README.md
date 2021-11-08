@@ -67,7 +67,7 @@ C3, C4, C6, C7 : https://s.click.aliexpress.com/e/_AmoZrX
 
 3 pins : https://s.click.aliexpress.com/e/_AYOqTb
 
-#### Resistances
+#### Resistors
 100R : https://s.click.aliexpress.com/e/_9Ar1gt
 
 2k2R : https://s.click.aliexpress.com/e/_9Ar1gt
