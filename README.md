@@ -59,15 +59,19 @@ https://s.click.aliexpress.com/e/_9jZgBr
 
 #### Capacitors
 C1, C2, C5 : https://s.click.aliexpress.com/e/_A0ztiz
+
 C3, C4, C6, C7 : https://s.click.aliexpress.com/e/_AmoZrX
 
 #### JST Connectors
 2 pins : https://s.click.aliexpress.com/e/_AYOqTb
+
 3 pins : https://s.click.aliexpress.com/e/_AYOqTb
 
 #### Resistances
 100R : https://s.click.aliexpress.com/e/_9Ar1gt
+
 2k2R : https://s.click.aliexpress.com/e/_9Ar1gt
+
 3k9R : https://s.click.aliexpress.com/e/_9Ar1gt
 
 
