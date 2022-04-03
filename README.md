@@ -147,7 +147,12 @@ USB C info: https://www.youtube.com/watch?v=V-vFtiDYiIw
 ______________________________________________________________________________________________________________________________
 
 ### License
-Copyright 2021 Miguel Tomás under Creative Commons license
+2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+### Own a copy of this work
+if you like to own a copy of this work, you can buy it as a NFT or Ethereum. Contact me for more details at mtpsilva@gmail.com
 
 =====================================================================================
 ### Share this PCB board files
