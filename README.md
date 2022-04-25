@@ -27,7 +27,7 @@ If you like this kind of projects and want to stay updated with the latest resea
 
 ________________________________________________________________________________________________________________
 
-### Below was partly copyed from the video description on YouTube
+### Below was partly copied from the video description on YouTube
 
 #### PCB Parts list:
 
