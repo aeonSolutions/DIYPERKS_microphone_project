@@ -5,6 +5,9 @@
 This is the Gerber & KiCad files for the Youtuber DIY PERKS video "Building a quality USB-C microphone"
 You can view the DIY build here : https://www.youtube.com/watch?v=LoQu3XXIayc&t=1s
 
+
+*Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
+
 You have 2 options:
 
 Download this repository for the KiCad Files
