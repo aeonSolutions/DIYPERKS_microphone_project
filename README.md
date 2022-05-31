@@ -25,7 +25,7 @@ Download the Gerber files in the release section of this repository
 ![](https://github.com/aeonSolutions/DIYPERKS_microphone_project/blob/main/image_2021-11-07_115353.png)
 
 ## Liked it ? Get a Free PCB for yourself
-Send my your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
+Send me your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
 
 ## Q&A WhatsApp Group
 If you have any Questions or simply  like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
