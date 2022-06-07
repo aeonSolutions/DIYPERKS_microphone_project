@@ -10,14 +10,12 @@ You can view the DIY build here : https://www.youtube.com/watch?v=LoQu3XXIayc&t=
 
 You have 2 options:
 
-Download this repository for the KiCad Files
-
-Or,
-
-Download the Gerber files in the release section of this repository
+Download this repository for the KiCad Files pr, download the Gerber files in the release section of this repository
 
 ### alternatively if you do not want to build a PCB by yourself, and like to buy one mail me at mtpsilva@gmail.com. The price will be around 20eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at an aditonal cost).
+
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/)
 
 
 ![](https://github.com/aeonSolutions/DIYPERKS_microphone_project/blob/main/image_2021-11-08_111413.png)
